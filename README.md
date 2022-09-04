@@ -1,0 +1,4 @@
+- 1 year of experience
+- was first time to use revierpod
+- was first time to use flutter web
+-
